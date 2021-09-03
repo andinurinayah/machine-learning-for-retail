@@ -3,7 +3,6 @@ library(arules)
 transaksi_tabular <- read.transactions(file="https://storage.googleapis.com/dqlab-dataset/transaksi_dqlab_retail.tsv", 
                                        format="single", sep="\t", cols=c(1,2), skip=1)
 
-
 # Insight Top 10
 data_item <- itemFrequency(transaksi_tabular, type = "absolute")
 data_item <- sort(data_item, decreasing = TRUE)
