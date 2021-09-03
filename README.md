@@ -31,7 +31,7 @@ Slow-moving item adalah produk yang pergerakan penjualannya lambat atau kurang c
 
 Berdasarkan gambar di atas, maka paket produk yang dapat dipasangkan dengan item-slow moving adalah:
 * Produk **{Tas Makeup}** dapat dikombinasikan dengan produk **{Baju Renang Anak Perempuan, Tas Pinggang wanita}** 
-* Produk **{Baju Renang Pria Anak-anak}** dapat dikombinasikan dengan produk **{Gembok Koper, Tas, Waist Bag}** 
+* Produk **{Baju Renang Pria Anak-anak}** dapat dikombinasikan dengan produk **{Gembok Koper Tas, Waist Bag}** 
 
 # Rekomendasi
 Terdapat beberapa opsi action item yang dapat dilakukan oleh DQLab.id Fashion:
